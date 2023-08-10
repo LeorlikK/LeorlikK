@@ -1,4 +1,5 @@
-# php
+# Info
+- :mailbox: Способы связи: [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/leorlik) [![Gmail Badge](https://img.shields.io/badge/-Yandex-red?style=flat&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/PjwhRE9DVFlQRSBzdmcgIFBVQkxJQyAnLS8vVzNDLy9EVEQgU1ZHIDEuMS8vRU4nICAnaHR0cDovL3d3dy53My5vcmcvR3JhcGhpY3MvU1ZHLzEuMS9EVEQvc3ZnMTEuZHRkJz48c3ZnIGhlaWdodD0iNTEycHgiIHN0eWxlPSJlbmFibGUtYmFja2dyb3VuZDpuZXcgMCAwIDUxMiA1MTI7IiB2ZXJzaW9uPSIxLjEiIHZpZXdCb3g9IjAgMCA1MTIgNTEyIiB3aWR0aD0iNTEycHgiIHhtbDpzcGFjZT0icHJlc2VydmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiPjxnIGlkPSJjb21wX3g1Rl8zOTIteWFuZGV4LWludGVybmF0aW9uYWwiPjxnPjxwYXRoIGQ9Ik0yMjguNTk4LDQ4NS45OTl2LTE0OS4yM0wxMjguODcxLDY5LjEyNmg1MC4xMzNsNzMuNDkxLDIwNi4zNjlsODQuNTQ0LTI0OS40OTRoNDYuMDlMMjc0LjY4OCwzMzguNDc4djE0Ny41MjFIMjI4LjU5OHoiLz48L2c+PC9nPjxnIGlkPSJMYXllcl8xIi8+PC9zdmc+)](mailto:leorl1k@yandex.rum)
 
 ---
 
